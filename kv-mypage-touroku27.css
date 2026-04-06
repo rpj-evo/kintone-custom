@@ -1,6 +1,5 @@
 body main{
 	background: linear-gradient(135deg, #b0ffc0 0%, #1a73e8 100%)
-
 }
 
 .ui.large.menu{
@@ -16,8 +15,8 @@ body main{
 
 .el-main{
 	background:#ffffff;
-	box-shadow:0 10px 30px rgba(0, 0, 0, 0.04),0 2px 8px rgba(0, 0, 0, 0.02);   
-
+	box-shadow:0 10px 30px rgba(0, 0, 0, 0.04),0 2px 8px rgba(0, 0, 0, 0.02); 
+	margin-bottom:3rem;
 }
 
 h1.kv_title{
