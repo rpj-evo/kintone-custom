@@ -1,0 +1,64 @@
+.fb-custom--header{
+	padding:30px;
+}
+.fb-custom--header img{width:200px;} 
+
+.fb-custom--background{
+    background: linear-gradient(135deg, #b0ffc0 0%, #1a73e8 100%)
+}
+
+.max-w-\[960px\] {
+	max-width: 1127px;
+}
+
+.pt-4 {
+	padding: 4rem 2rem;
+    box-shadow:0 10px 30px rgba(0, 0, 0, 0.04),0 2px 8px rgba(0, 0, 0, 0.02); 
+    margin-bottom:5rem; 
+}
+
+.lexical-html em {
+    color: #067934;
+    background: #d7f5e3;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    font-style: normal;
+}
+
+.bg-role-error{
+	line-height:1rem;
+}
+
+/*Price Button disable */
+.\!pr-10 {
+    padding-right: 1rem !important;
+}
+
+
+.lexical-html a {
+    padding: 1rem;
+    color: #fff;
+    background: #409eff;
+    border-radius: 5px;
+    margin: 0 2px 2px 0;
+    display: inline-block;
+	text-decoration:none;
+}
+
+.lexical-html a:hover {
+	background: #4183c4;
+	text-decoration:none;
+}
+
+#RITEWAY実績,#GT実績,#FELT実績,#BOMBTRACK実績{text-align:right;}
+
+#dealercode,#dealername{color:#999999;}
+
+/*
+.py-2{display:none;}
+.pt-20{display:none;}
+*/
+
+.border-role-error{
+	background:#ffe0e0;
+}
